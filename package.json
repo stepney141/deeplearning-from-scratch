@@ -1,9 +1,0 @@
-{
-  "devDependencies": {
-    "typescript": "^4.8.4"
-  },
-  "dependencies": {
-    "@types/numjs": "^0.16.2",
-    "numjs": "^0.16.1"
-  }
-}
